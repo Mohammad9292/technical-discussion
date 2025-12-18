@@ -18,4 +18,4 @@ this is the [notebook](https://github.com/Mohammad9292/technical-discussion/blob
 
 ### Image 
 
-https://github.com/Mohammad9292/technical-discussion/issues/1#issue-3741034142
+![Image](https://github.com/user-attachments/assets/7e5f0e5a-4e6d-4277-aff3-fd79211aaf3d)
